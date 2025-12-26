@@ -15,7 +15,6 @@ Each step builds upon the previous, demonstrating the evolution of form handling
 
 ## 📁 Project Structure
 
-```
 form-management-react
    ├─ eslint.config.js
    ├─ index.html
@@ -38,7 +37,7 @@ form-management-react
    │     ├─ App.css
    │     └─ Form.css
    └─ vite.config.js
-```
+
 
 ## 🚀 Learning Progression
 
